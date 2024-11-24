@@ -1,0 +1,6 @@
+Vārds;Vecums
+ANNA;25
+JOHN;30
+LISA;22
+PAUL;27
+MARY;24
